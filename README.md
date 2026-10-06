@@ -1,7 +1,8 @@
-# Manual de Filosofia  
-## Da Grécia Antiga ao pensamento contemporâneo
+# Manual de filosofia
 
-### Objetivo deste manual
+Da Grécia Antiga ao pensamento contemporâneo.
+
+## Objetivo deste manual
 
 Este manual foi pensado para quem quer estudar filosofia desde o início e compreender a **evolução das ideias filosóficas**, em vez de apenas decorar nomes, datas e frases famosas.
 
@@ -16,11 +17,55 @@ Ao estudar cada filósofo, tente sempre responder:
 7. O que pensa sobre sociedade, política e liberdade?
 8. Que filósofos posteriores foram influenciados por ele?
 
+## Escopo e como usar
+
+Este é um roteiro introdutório de estudo, com foco em tradições da filosofia ocidental. A seleção não representa toda a história da filosofia: tradições africanas, asiáticas, indígenas e latino-americanas também precisam ser estudadas para ampliar esse panorama.
+
+As divisões por período são aproximadas. Correntes coexistem, divergem e retomam problemas anteriores; os mapas deste manual são recursos didáticos, não uma sequência única de progresso. As explicações resumem debates complexos e devem ser confrontadas com as obras dos autores.
+
+1. Leia o panorama histórico e identifique as perguntas de cada período.
+2. Use a ficha de estudo para registrar conceitos, argumentos e dúvidas.
+3. Compare autores que oferecem respostas diferentes ao mesmo problema.
+4. Consulte as referências e leia trechos das obras antes de formular sua avaliação.
+5. Adapte o plano de 24 semanas ao seu ritmo; ele é uma primeira passagem, não uma formação completa.
+
+## Sumário
+
+- [Parte I — O nascimento da filosofia](#parte-i)
+- [Parte II — Filosofia antiga](#parte-ii)
+- [Parte III — Filosofia helenística](#parte-iii)
+- [Parte IV — Filosofia medieval](#parte-iv)
+- [Parte V — Renascimento e revolução científica](#parte-v)
+- [Parte VI — Filosofia moderna](#parte-vi)
+- [Parte VII — Filosofia política moderna](#parte-vii)
+- [Parte VIII — Iluminismo](#parte-viii)
+- [Parte IX — Filosofia do século XIX](#parte-ix)
+- [Parte X — Filosofia do século XX](#parte-x)
+- [Parte XI — Filosofia analítica](#parte-xi)
+- [Parte XII — Pragmatismo](#parte-xii)
+- [Parte XIII — Psicanálise e filosofia](#parte-xiii)
+- [Parte XIV — Escola de Frankfurt](#parte-xiv)
+- [Parte XV — Estruturalismo](#parte-xv)
+- [Parte XVI — Pós-estruturalismo](#parte-xvi)
+- [Parte XVII — Filosofia política contemporânea](#parte-xvii)
+- [Parte XVIII — Outras correntes contemporâneas](#parte-xviii)
+- [Parte XIX — Mapa da evolução filosófica](#parte-xix)
+- [Parte XX — As grandes linhas da filosofia](#parte-xx)
+- [Parte XXI — Como estudar cada filósofo](#parte-xxi)
+- [Parte XXII — Ordem recomendada de estudo](#parte-xxii)
+- [Parte XXIII — Plano de estudo de 24 semanas](#parte-xxiii)
+- [Parte XXIV — O método mais importante](#parte-xxiv)
+- [Parte XXV — Perguntas para guiar todo o curso](#parte-xxv)
+- [Objetivo final](#objetivo-final)
+- [Referências para aprofundamento](#referencias)
+
 ---
 
-# PARTE I — O NASCIMENTO DA FILOSOFIA
+<a id="parte-i"></a>
 
-## 1. Antes da filosofia: mito e razão
+## Parte I — O nascimento da filosofia
+
+### 1. Antes da filosofia: mito e razão
 
 Antes dos primeiros filósofos gregos, muitas explicações sobre o mundo eram dadas através dos mitos.
 
@@ -47,9 +92,11 @@ Essa pergunta marca o nascimento da filosofia ocidental.
 
 ---
 
-# PARTE II — FILOSOFIA ANTIGA
+<a id="parte-ii"></a>
 
-## 2. Os pré-socráticos
+## Parte II — Filosofia antiga
+
+### 2. Os pré-socráticos
 
 Período aproximado:
 
@@ -63,7 +110,7 @@ Os gregos chamavam a natureza de **physis**.
 
 Os primeiros filósofos buscavam a **arché**, isto é, o princípio fundamental de todas as coisas.
 
-### Tales de Mileto
+#### Tales de Mileto
 
 Tales é tradicionalmente considerado o primeiro filósofo grego.
 
@@ -75,7 +122,7 @@ O mais importante não é a resposta “água”, mas a tentativa de explicar o 
 
 ---
 
-## Anaximandro
+#### Anaximandro
 
 Discordou de Tales.
 
@@ -89,7 +136,7 @@ Uma espécie de princípio ilimitado ou indeterminado do qual todas as coisas su
 
 ---
 
-## Anaxímenes
+#### Anaxímenes
 
 Defendeu que o princípio fundamental seria:
 
@@ -99,7 +146,7 @@ As diferentes coisas surgiriam por processos de condensação e rarefação.
 
 ---
 
-# 3. Heráclito
+### 3. Heráclito
 
 Heráclito percebeu algo fundamental:
 
@@ -123,13 +170,13 @@ Vida e morte.
 
 O mundo existe através dessas tensões.
 
-### Conceito fundamental
+#### Conceito fundamental
 
 **Devir** = processo contínuo de mudança.
 
 ---
 
-# 4. Parmênides
+### 4. Parmênides
 
 Parmênides defendia praticamente o contrário.
 
@@ -157,7 +204,7 @@ Surge aqui uma das grandes disputas da filosofia:
 
 ---
 
-# 5. Demócrito e o atomismo
+### 5. Demócrito e o atomismo
 
 Demócrito tentou explicar mudança e permanência ao mesmo tempo.
 
@@ -173,11 +220,11 @@ Assim:
 
 **átomos permanecem → combinações mudam.**
 
-Essa teoria antecipa, de maneira filosófica, algumas ideias posteriormente desenvolvidas pela ciência.
+O atomismo antigo é uma hipótese filosófica sobre a natureza. Seus átomos indivisíveis não devem ser confundidos com os átomos da ciência moderna, que possuem estrutura interna.
 
 ---
 
-# 6. Os sofistas
+### 6. Os sofistas
 
 No século V a.C., a filosofia começou a mudar de foco.
 
@@ -196,7 +243,7 @@ Os sofistas ensinavam principalmente:
 - política;
 - persuasão.
 
-### Protágoras
+#### Protágoras
 
 Famosa tese:
 
@@ -208,7 +255,7 @@ Aquilo que consideramos verdadeiro pode depender da perspectiva humana.
 
 ---
 
-# 7. Sócrates
+### 7. Sócrates
 
 Sócrates mudou profundamente a filosofia.
 
@@ -224,17 +271,17 @@ Sócrates utilizava o diálogo.
 
 Seu método tinha duas etapas importantes.
 
-### Ironia socrática
+#### Ironia socrática
 
 Questionar aquilo que alguém pensa saber.
 
-### Maiêutica
+##### Maiêutica
 
 Através de perguntas, ajudar a pessoa a desenvolver melhor seu próprio pensamento.
 
 Sócrates acreditava que reconhecer a própria ignorância era o começo da sabedoria.
 
-### Grande mudança
+##### Grande mudança
 
 Os pré-socráticos perguntavam:
 
@@ -250,7 +297,7 @@ Sócrates pergunta:
 
 ---
 
-# 8. Platão
+### 8. Platão
 
 Platão foi discípulo de Sócrates.
 
@@ -264,7 +311,7 @@ e
 
 Sua resposta foi dividir a realidade em dois níveis.
 
-### Mundo sensível
+#### Mundo sensível
 
 É o mundo que percebemos pelos sentidos.
 
@@ -274,7 +321,7 @@ Sua resposta foi dividir a realidade em dois níveis.
 - mutável;
 - passageiro.
 
-### Mundo inteligível
+##### Mundo inteligível
 
 É conhecido pela razão.
 
@@ -298,7 +345,7 @@ Mas todas participariam da ideia de:
 
 ---
 
-## Alegoria da Caverna
+#### Alegoria da Caverna
 
 Platão imagina pessoas presas dentro de uma caverna vendo apenas sombras.
 
@@ -318,7 +365,7 @@ Também mostra que aquilo que percebemos imediatamente pode não representar tod
 
 ---
 
-# 9. Aristóteles
+### 9. Aristóteles
 
 Aristóteles foi aluno de Platão, mas discordou profundamente do mestre.
 
@@ -340,7 +387,7 @@ Ele desenvolveu estudos sobre:
 
 ---
 
-## As quatro causas
+#### As quatro causas
 
 Para compreender algo, Aristóteles propõe investigar quatro tipos de causa.
 
@@ -356,7 +403,7 @@ Exemplo: uma estátua.
 
 ---
 
-## Ética aristotélica
+#### Ética aristotélica
 
 Aristóteles pergunta:
 
@@ -376,9 +423,9 @@ A felicidade não seria simplesmente prazer.
 
 Seria viver de maneira virtuosa.
 
-### Virtude
+##### Virtude
 
-A virtude frequentemente está no equilíbrio.
+A virtude moral envolve um meio-termo relativo à situação e à pessoa, determinado pela razão prática. Não é uma média aritmética, e nem toda ação admite um meio-termo virtuoso.
 
 Exemplo:
 
@@ -388,7 +435,9 @@ A coragem seria um equilíbrio entre dois extremos.
 
 ---
 
-# PARTE III — FILOSOFIA HELENÍSTICA
+<a id="parte-iii"></a>
+
+## Parte III — Filosofia helenística
 
 Depois das conquistas de Alexandre, o mundo grego sofreu grandes transformações.
 
@@ -398,7 +447,7 @@ A filosofia passou a perguntar principalmente:
 
 ---
 
-# 10. Epicurismo
+### 10. Epicurismo
 
 Fundador:
 
@@ -427,24 +476,24 @@ Estado de tranquilidade da mente.
 
 ---
 
-# 11. Estoicismo
+### 11. Estoicismo
 
 Principais nomes:
 
-- Zenão;
+- Zenão de Cítio;
 - Sêneca;
 - Epicteto;
 - Marco Aurélio.
 
 O estoicismo ensina uma distinção fundamental:
 
-### Coisas que dependem de nós
+#### Coisas que dependem de nós
 
 - nossas decisões;
 - nossos julgamentos;
 - nossas atitudes.
 
-### Coisas que não dependem completamente de nós
+##### Coisas que não dependem completamente de nós
 
 - opinião dos outros;
 - acontecimentos externos;
@@ -452,11 +501,11 @@ O estoicismo ensina uma distinção fundamental:
 - envelhecimento;
 - morte.
 
-A sabedoria consiste em concentrar esforços naquilo que podemos controlar.
+Essa distinção é especialmente importante em Epicteto. Para os estoicos, a vida boa depende da virtude e do uso racional dos nossos julgamentos; não se resume a controlar acontecimentos ou evitar emoções. Veja a referência sobre [estoicismo](https://plato.stanford.edu/archives/sum2025/entries/stoicism/).
 
 ---
 
-# 12. Ceticismo
+### 12. Ceticismo
 
 Os céticos questionavam nossa capacidade de alcançar certeza absoluta.
 
@@ -468,13 +517,15 @@ Em vez de afirmar rapidamente que algo é verdadeiro ou falso, devemos reconhece
 
 ---
 
-# PARTE IV — FILOSOFIA MEDIEVAL
+<a id="parte-iv"></a>
+
+## Parte IV — Filosofia medieval
 
 Período aproximado:
 
 **séculos V ao XV.**
 
-A filosofia passa a dialogar intensamente com o cristianismo.
+Na tradição latina, a filosofia dialoga intensamente com o cristianismo. O período também inclui tradições bizantinas, islâmicas e judaicas, com autores como Avicena, Averróis e Maimônides. Agostinho, tratado a seguir, pertence à Antiguidade tardia e exerceu forte influência sobre o pensamento medieval. Veja a referência sobre [filosofia medieval](https://plato.stanford.edu/archives/sum2023/entries/medieval-philosophy/).
 
 Grande questão:
 
@@ -482,9 +533,9 @@ Grande questão:
 
 ---
 
-# 13. Santo Agostinho
+### 13. Santo Agostinho
 
-Agostinho recebeu forte influência de Platão.
+Agostinho recebeu forte influência do platonismo, especialmente do neoplatonismo, que reinterpretou a partir de sua fé cristã.
 
 Alguns de seus principais temas:
 
@@ -501,7 +552,7 @@ A interioridade ganha grande importância.
 
 ---
 
-# 14. Tomás de Aquino
+### 14. Tomás de Aquino
 
 Tomás de Aquino foi profundamente influenciado por Aristóteles.
 
@@ -517,7 +568,9 @@ Sua obra teve enorme influência na filosofia cristã.
 
 ---
 
-# PARTE V — RENASCIMENTO E REVOLUÇÃO CIENTÍFICA
+<a id="parte-v"></a>
+
+## Parte V — Renascimento e revolução científica
 
 Entre os séculos XV e XVII ocorre uma transformação profunda.
 
@@ -547,9 +600,11 @@ Essa pergunta dará origem à filosofia moderna.
 
 ---
 
-# PARTE VI — FILOSOFIA MODERNA
+<a id="parte-vi"></a>
 
-# 15. René Descartes
+## Parte VI — Filosofia moderna
+
+### 15. René Descartes
 
 Descartes busca uma verdade absolutamente segura.
 
@@ -577,7 +632,7 @@ Daí sua famosa conclusão:
 
 ---
 
-## Racionalismo
+#### Racionalismo
 
 Descartes representa uma importante corrente:
 
@@ -592,7 +647,7 @@ Outros racionalistas:
 
 ---
 
-# 16. Spinoza
+### 16. Spinoza
 
 Spinoza desenvolveu uma filosofia radical.
 
@@ -619,11 +674,11 @@ Para Spinoza, compreender as causas de nossas emoções aumenta nossa liberdade.
 
 ---
 
-# 17. Empirismo
+### 17. Empirismo
 
-Outra corrente moderna surgiu principalmente na Inglaterra.
+Outra corrente moderna se desenvolveu sobretudo no contexto britânico e irlandês.
 
-### Ideia principal
+#### Ideia principal
 
 O conhecimento começa através da:
 
@@ -637,7 +692,7 @@ Principais filósofos:
 
 ---
 
-# 18. John Locke
+### 18. John Locke
 
 Locke rejeita a ideia de que nascemos com todas as ideias importantes prontas.
 
@@ -657,7 +712,7 @@ Defendeu direitos como:
 
 ---
 
-# 19. David Hume
+### 19. David Hume
 
 Hume levou o empirismo a consequências muito profundas.
 
@@ -679,9 +734,11 @@ Esse problema influenciará profundamente Kant.
 
 ---
 
-# PARTE VII — FILOSOFIA POLÍTICA MODERNA
+<a id="parte-vii"></a>
 
-# 20. Thomas Hobbes
+## Parte VII — Filosofia política moderna
+
+### 20. Thomas Hobbes
 
 Hobbes pergunta:
 
@@ -697,7 +754,7 @@ Eles entregam parte de sua liberdade a um poder capaz de garantir ordem.
 
 ---
 
-# 21. John Locke
+### 21. John Locke
 
 Locke também pensa o contrato social.
 
@@ -711,7 +768,7 @@ Suas ideias influenciaram profundamente o liberalismo.
 
 ---
 
-# 22. Jean-Jacques Rousseau
+### 22. Jean-Jacques Rousseau
 
 Rousseau questiona a sociedade de sua época.
 
@@ -727,7 +784,9 @@ O poder político legítimo deveria representar o conjunto dos cidadãos e não 
 
 ---
 
-# PARTE VIII — ILUMINISMO
+<a id="parte-viii"></a>
+
+## Parte VIII — Iluminismo
 
 Século XVIII.
 
@@ -761,7 +820,7 @@ Filósofos importantes:
 
 ---
 
-# 23. Immanuel Kant
+### 23. Immanuel Kant
 
 Kant representa uma das maiores viradas da história da filosofia.
 
@@ -787,7 +846,7 @@ Ela organiza aquilo que percebemos.
 
 ---
 
-## Revolução Copernicana de Kant
+#### Revolução Copernicana de Kant
 
 Antes, imaginava-se que nossa mente simplesmente deveria se adaptar ao mundo.
 
@@ -805,7 +864,7 @@ isto é, a realidade como aparece dentro das estruturas de nossa experiência.
 
 ---
 
-## Ética kantiana
+#### Ética kantiana
 
 Para Kant, uma ação moral não deve depender apenas de suas consequências.
 
@@ -823,7 +882,9 @@ Uma formulação simplificada:
 
 ---
 
-# PARTE IX — FILOSOFIA DO SÉCULO XIX
+<a id="parte-ix"></a>
+
+## Parte IX — Filosofia do século XIX
 
 O século XIX será profundamente influenciado por:
 
@@ -836,7 +897,7 @@ O século XIX será profundamente influenciado por:
 
 ---
 
-# 24. Hegel
+### 24. Hegel
 
 Hegel entende a realidade como um processo histórico.
 
@@ -852,17 +913,19 @@ Elas também movimentam o desenvolvimento histórico.
 
 Uma forma simplificada de entender:
 
-situação existente  
-↓  
-surge uma contradição  
-↓  
-essa contradição produz transformação  
-↓  
+situação existente\
+↓
+surge uma contradição\
+↓
+essa contradição produz transformação\
+↓
 surge uma nova situação
+
+Esse esquema é apenas uma aproximação. A dialética hegeliana investiga os limites internos de determinações e sua superação, que também conserva aspectos anteriores (*Aufhebung*). Não deve ser reduzida a uma fórmula fixa de “tese, antítese e síntese”. Veja a referência sobre [dialética em Hegel](https://plato.stanford.edu/archives/spr2022/entries/hegel-dialectics/).
 
 ---
 
-# 25. Karl Marx
+### 25. Karl Marx
 
 Marx recebe forte influência de Hegel, mas modifica sua filosofia.
 
@@ -879,7 +942,7 @@ A maneira como uma sociedade produz seus bens influencia:
 
 ---
 
-## Luta de classes
+#### Luta de classes
 
 Para Marx, sociedades históricas são marcadas por conflitos entre classes.
 
@@ -895,7 +958,7 @@ vende sua força de trabalho.
 
 ---
 
-## Alienação
+#### Alienação
 
 O trabalhador pode perder controle sobre:
 
@@ -906,7 +969,7 @@ O trabalhador pode perder controle sobre:
 
 ---
 
-## Ideologia
+#### Ideologia
 
 Ideias dominantes de uma sociedade podem contribuir para apresentar determinadas relações sociais como naturais ou inevitáveis.
 
@@ -920,7 +983,7 @@ Marx terá enorme influência sobre:
 
 ---
 
-# 26. Arthur Schopenhauer
+### 26. Arthur Schopenhauer
 
 Schopenhauer desenvolve uma visão bastante pessimista da existência.
 
@@ -938,7 +1001,7 @@ desejo → satisfação momentânea → novo desejo.
 
 ---
 
-# 27. Friedrich Nietzsche
+### 27. Friedrich Nietzsche
 
 Nietzsche realiza uma crítica radical da tradição filosófica e moral ocidental.
 
@@ -952,7 +1015,7 @@ Ele questiona:
 
 ---
 
-## “Deus está morto”
+#### “Deus está morto”
 
 Nietzsche não está simplesmente comemorando a inexistência de Deus.
 
@@ -966,7 +1029,7 @@ Surge então um problema:
 
 ---
 
-## Niilismo
+#### Niilismo
 
 Quando antigos valores entram em colapso, pode surgir:
 
@@ -978,7 +1041,9 @@ Nietzsche tenta pensar maneiras de criar novos valores.
 
 ---
 
-# PARTE X — FILOSOFIA DO SÉCULO XX
+<a id="parte-x"></a>
+
+## Parte X — Filosofia do século XX
 
 A filosofia se fragmenta em muitas correntes.
 
@@ -997,7 +1062,7 @@ Entre as principais estão:
 
 ---
 
-# 28. Fenomenologia — Edmund Husserl
+### 28. Fenomenologia — Edmund Husserl
 
 Husserl queria estudar cuidadosamente:
 
@@ -1015,7 +1080,7 @@ A fenomenologia influenciou profundamente:
 
 ---
 
-# 29. Martin Heidegger
+### 29. Martin Heidegger
 
 Heidegger retoma uma das perguntas mais antigas da filosofia:
 
@@ -1040,7 +1105,7 @@ A existência humana está sempre inserida:
 
 ---
 
-# 30. Existencialismo
+### 30. Existencialismo
 
 O existencialismo coloca a existência humana no centro da reflexão.
 
@@ -1056,7 +1121,7 @@ Temas:
 
 ---
 
-# 31. Jean-Paul Sartre
+### 31. Jean-Paul Sartre
 
 Uma das frases centrais do existencialismo de Sartre é:
 
@@ -1076,7 +1141,7 @@ Mas também enorme responsabilidade.
 
 ---
 
-# 32. Simone de Beauvoir
+### 32. Simone de Beauvoir
 
 Beauvoir aplica ideias existencialistas à análise da condição feminina.
 
@@ -1092,7 +1157,9 @@ Sua obra é fundamental para a filosofia feminista.
 
 ---
 
-# PARTE XI — FILOSOFIA ANALÍTICA
+<a id="parte-xi"></a>
+
+## Parte XI — Filosofia analítica
 
 A filosofia analítica surge principalmente no mundo britânico e anglo-americano.
 
@@ -1108,7 +1175,7 @@ Filósofos importantes:
 
 ---
 
-# 33. Wittgenstein
+### 33. Wittgenstein
 
 Wittgenstein teve duas fases filosóficas.
 
@@ -1124,7 +1191,9 @@ Assim, compreender uma palavra exige compreender o contexto social no qual ela a
 
 ---
 
-# PARTE XII — PRAGMATISMO
+<a id="parte-xii"></a>
+
+## Parte XII — Pragmatismo
 
 Principalmente nos Estados Unidos.
 
@@ -1142,9 +1211,11 @@ O significado e a verdade de certas ideias estão ligados à maneira como funcio
 
 ---
 
-# PARTE XIII — PSICANÁLISE E FILOSOFIA
+<a id="parte-xiii"></a>
 
-# 34. Sigmund Freud
+## Parte XIII — Psicanálise e filosofia
+
+### 34. Sigmund Freud
 
 Embora Freud fosse principalmente médico e fundador da psicanálise, suas ideias tiveram enorme impacto filosófico.
 
@@ -1160,7 +1231,9 @@ não controlamos completamente nossos desejos, motivações e comportamentos.
 
 ---
 
-# PARTE XIV — ESCOLA DE FRANKFURT
+<a id="parte-xiv"></a>
+
+## Parte XIV — Escola de Frankfurt
 
 Pensadores importantes:
 
@@ -1188,7 +1261,7 @@ Investigam:
 
 ---
 
-# 35. Indústria cultural
+### 35. Indústria cultural
 
 Adorno e Horkheimer analisam como a cultura pode se transformar em mercadoria.
 
@@ -1200,7 +1273,9 @@ Surge o conceito de:
 
 ---
 
-# PARTE XV — ESTRUTURALISMO
+<a id="parte-xv"></a>
+
+## Parte XV — Estruturalismo
 
 O estruturalismo ganhou força principalmente na França.
 
@@ -1223,7 +1298,9 @@ Essas estruturas influenciam profundamente nossa maneira de pensar.
 
 ---
 
-# PARTE XVI — PÓS-ESTRUTURALISMO
+<a id="parte-xvi"></a>
+
+## Parte XVI — Pós-estruturalismo
 
 Pensadores como:
 
@@ -1235,7 +1312,7 @@ Passam a questionar estruturas fixas e categorias universais.
 
 ---
 
-# 36. Michel Foucault
+### 36. Michel Foucault
 
 Foucault estuda relações entre:
 
@@ -1264,7 +1341,7 @@ Foucault também investiga como sociedades classificam aquilo que consideram:
 
 ---
 
-# 37. Jacques Derrida
+### 37. Jacques Derrida
 
 Derrida desenvolve a:
 
@@ -1286,9 +1363,11 @@ Sua filosofia mostra que essas divisões podem ser muito menos estáveis do que 
 
 ---
 
-# PARTE XVII — FILOSOFIA POLÍTICA CONTEMPORÂNEA
+<a id="parte-xvii"></a>
 
-# 38. John Rawls
+## Parte XVII — Filosofia política contemporânea
+
+### 38. John Rawls
 
 Rawls pergunta:
 
@@ -1316,7 +1395,7 @@ A ideia é descobrir quais regras seriam escolhidas de maneira mais imparcial.
 
 ---
 
-# 39. Hannah Arendt
+### 39. Hannah Arendt
 
 Arendt estudou:
 
@@ -1333,7 +1412,9 @@ Ela investigou como grandes crimes políticos podem ser cometidos não apenas po
 
 ---
 
-# PARTE XVIII — OUTRAS CORRENTES CONTEMPORÂNEAS
+<a id="parte-xviii"></a>
+
+## Parte XVIII — Outras correntes contemporâneas
 
 A filosofia atual inclui inúmeras tradições.
 
@@ -1357,7 +1438,7 @@ Autores incluem:
 
 ---
 
-### Filosofia da mente
+#### Filosofia da mente
 
 Perguntas:
 
@@ -1368,7 +1449,7 @@ Perguntas:
 
 ---
 
-### Filosofia da ciência
+#### Filosofia da ciência
 
 Perguntas:
 
@@ -1384,7 +1465,7 @@ Autores importantes:
 
 ---
 
-# 40. Karl Popper
+### 40. Karl Popper
 
 Popper propõe que teorias científicas precisam ser:
 
@@ -1394,7 +1475,7 @@ Uma teoria científica deve permitir algum tipo de teste capaz, em princípio, d
 
 ---
 
-# 41. Thomas Kuhn
+### 41. Thomas Kuhn
 
 Kuhn argumenta que a ciência não progride simplesmente acumulando fatos.
 
@@ -1410,7 +1491,9 @@ Um novo paradigma substitui o anterior.
 
 ---
 
-# PARTE XIX — MAPA DA EVOLUÇÃO FILOSÓFICA
+<a id="parte-xix"></a>
+
+## Parte XIX — Mapa da evolução filosófica
 
 Uma maneira simples de visualizar a história da filosofia:
 
@@ -1528,11 +1611,13 @@ Consciência, tecnologia, IA, ética, política, identidade, ciência e meio amb
 
 ---
 
-# PARTE XX — AS GRANDES LINHAS DA FILOSOFIA
+<a id="parte-xx"></a>
+
+## Parte XX — As grandes linhas da filosofia
 
 Durante seus estudos, tente identificar estas grandes famílias.
 
-## Racionalismo
+### Racionalismo
 
 Razão como fonte fundamental do conhecimento.
 
@@ -1544,7 +1629,7 @@ Autores:
 
 ---
 
-## Empirismo
+### Empirismo
 
 Conhecimento baseado principalmente na experiência.
 
@@ -1556,7 +1641,7 @@ Autores:
 
 ---
 
-## Idealismo
+### Idealismo
 
 A realidade ou nosso conhecimento dela está profundamente relacionado à mente, consciência ou estruturas do pensamento.
 
@@ -1570,7 +1655,7 @@ Cada um, porém, defende uma forma bastante diferente de idealismo.
 
 ---
 
-## Materialismo
+### Materialismo
 
 A realidade material possui prioridade.
 
@@ -1582,7 +1667,7 @@ Autores associados:
 
 ---
 
-## Existencialismo
+### Existencialismo
 
 Foco na existência concreta do indivíduo.
 
@@ -1596,7 +1681,7 @@ Autores:
 
 ---
 
-## Marxismo
+### Marxismo
 
 Analisa sociedade através de:
 
@@ -1608,7 +1693,7 @@ Analisa sociedade através de:
 
 ---
 
-## Liberalismo
+### Liberalismo
 
 Valoriza temas como:
 
@@ -1625,7 +1710,7 @@ Autores:
 
 ---
 
-## Utilitarismo
+### Utilitarismo
 
 Uma ação deve ser avaliada principalmente por suas consequências.
 
@@ -1640,7 +1725,7 @@ buscar o maior bem-estar possível.
 
 ---
 
-## Deontologia
+### Deontologia
 
 A moral depende também de deveres e princípios, não apenas das consequências.
 
@@ -1650,7 +1735,7 @@ Principal referência:
 
 ---
 
-## Filosofia da virtude
+### Filosofia da virtude
 
 Pergunta menos:
 
@@ -1666,7 +1751,9 @@ Principal referência histórica:
 
 ---
 
-# PARTE XXI — COMO ESTUDAR CADA FILÓSOFO
+<a id="parte-xxi"></a>
+
+## Parte XXI — Como estudar cada filósofo
 
 Para cada autor, monte uma ficha.
 
@@ -1713,9 +1800,11 @@ Por quê?
 
 ---
 
-# PARTE XXII — ORDEM RECOMENDADA DE ESTUDO
+<a id="parte-xxii"></a>
 
-Para uma primeira formação sólida, siga esta sequência:
+## Parte XXII — Ordem recomendada de estudo
+
+Para uma primeira visão de conjunto, siga esta sequência. Alguns autores são apenas mencionados neste manual e exigem leituras complementares:
 
 ### Etapa 1 — Grécia
 
@@ -1728,18 +1817,18 @@ Para uma primeira formação sólida, siga esta sequência:
 7. Platão
 8. Aristóteles
 
-### Etapa 2 — Helenismo
+#### Etapa 2 — Helenismo
 
 9. Epicuro
 10. Estoicos
 11. Céticos
 
-### Etapa 3 — Filosofia medieval
+#### Etapa 3 — Filosofia medieval
 
 12. Agostinho
 13. Tomás de Aquino
 
-### Etapa 4 — Modernidade
+#### Etapa 4 — Modernidade
 
 14. Descartes
 15. Spinoza
@@ -1749,7 +1838,7 @@ Para uma primeira formação sólida, siga esta sequência:
 19. Rousseau
 20. Kant
 
-### Etapa 5 — Século XIX
+#### Etapa 5 — Século XIX
 
 21. Hegel
 22. Marx
@@ -1757,7 +1846,7 @@ Para uma primeira formação sólida, siga esta sequência:
 24. Kierkegaard
 25. Nietzsche
 
-### Etapa 6 — Século XX
+#### Etapa 6 — Século XX
 
 26. Freud
 27. Husserl
@@ -1769,7 +1858,7 @@ Para uma primeira formação sólida, siga esta sequência:
 33. Adorno
 34. Foucault
 
-### Etapa 7 — Contemporâneos
+#### Etapa 7 — Contemporâneos
 
 35. Rawls
 36. Kuhn
@@ -1778,13 +1867,15 @@ Para uma primeira formação sólida, siga esta sequência:
 39. Habermas
 40. Judith Butler
 
-Depois disso, você terá uma base suficiente para escolher áreas específicas.
+Use essa sequência como ponto de partida para escolher áreas específicas e aprofundar as leituras.
 
 ---
 
-# PARTE XXIII — PLANO DE ESTUDO DE 24 SEMANAS
+<a id="parte-xxiii"></a>
 
-## Semanas 1–3
+## Parte XXIII — Plano de estudo de 24 semanas
+
+### Semanas 1–3
 
 Filosofia grega inicial.
 
@@ -1797,7 +1888,7 @@ Estude:
 
 ---
 
-## Semanas 4–5
+### Semanas 4–5
 
 Platão.
 
@@ -1810,7 +1901,7 @@ Estude:
 
 ---
 
-## Semanas 6–7
+### Semanas 6–7
 
 Aristóteles.
 
@@ -1823,7 +1914,7 @@ Estude:
 
 ---
 
-## Semana 8
+### Semana 8
 
 Helenismo.
 
@@ -1833,7 +1924,7 @@ Compare:
 
 ---
 
-## Semana 9
+### Semana 9
 
 Filosofia medieval.
 
@@ -1845,7 +1936,7 @@ Pergunta principal:
 
 ---
 
-## Semanas 10–12
+### Semanas 10–12
 
 Filosofia moderna.
 
@@ -1859,7 +1950,7 @@ Pergunta:
 
 ---
 
-## Semana 13
+### Semana 13
 
 Filosofia política.
 
@@ -1873,7 +1964,7 @@ Pergunta:
 
 ---
 
-## Semanas 14–15
+### Semanas 14–15
 
 Kant.
 
@@ -1883,7 +1974,7 @@ Ele é uma ponte fundamental entre filosofia moderna e contemporânea.
 
 ---
 
-## Semana 16
+### Semana 16
 
 Hegel.
 
@@ -1895,7 +1986,7 @@ Concentre-se em:
 
 ---
 
-## Semana 17
+### Semana 17
 
 Marx.
 
@@ -1908,7 +1999,7 @@ Estude:
 
 ---
 
-## Semana 18
+### Semana 18
 
 Nietzsche.
 
@@ -1921,7 +2012,7 @@ Estude:
 
 ---
 
-## Semana 19
+### Semana 19
 
 Freud.
 
@@ -1933,7 +2024,7 @@ Estude:
 
 ---
 
-## Semana 20
+### Semana 20
 
 Fenomenologia.
 
@@ -1941,7 +2032,7 @@ Husserl e Heidegger.
 
 ---
 
-## Semana 21
+### Semana 21
 
 Existencialismo.
 
@@ -1949,7 +2040,7 @@ Sartre e Beauvoir.
 
 ---
 
-## Semana 22
+### Semana 22
 
 Filosofia analítica.
 
@@ -1957,7 +2048,7 @@ Russell e Wittgenstein.
 
 ---
 
-## Semana 23
+### Semana 23
 
 Teoria crítica.
 
@@ -1965,7 +2056,7 @@ Adorno, Horkheimer e Marcuse.
 
 ---
 
-## Semana 24
+### Semana 24
 
 Foucault, Derrida e filosofia contemporânea.
 
@@ -1975,7 +2066,9 @@ Você perceberá relações que eram invisíveis na primeira leitura.
 
 ---
 
-# PARTE XXIV — O MÉTODO MAIS IMPORTANTE
+<a id="parte-xxiv"></a>
+
+## Parte XXIV — O método mais importante
 
 Não estude filosofia como quem estuda uma lista:
 
@@ -2055,11 +2148,13 @@ E talvez aquilo que chamamos de verdade também esteja ligado aos valores que cr
 
 E aquilo que uma sociedade considera verdadeiro também está ligado a instituições, discursos e relações de poder.
 
-Essa cadeia é uma das melhores maneiras de entender a filosofia.
+Essa cadeia é uma reconstrução didática de problemas, com paráfrases das posições dos autores. Não representa citações literais nem uma relação direta de influência entre todos os nomes.
 
 ---
 
-# PARTE XXV — PERGUNTAS PARA GUIAR TODO O CURSO
+<a id="parte-xxv"></a>
+
+## Parte XXV — Perguntas para guiar todo o curso
 
 Ao terminar seu estudo, você deverá conseguir discutir pelo menos estas perguntas:
 
@@ -2071,7 +2166,7 @@ Existe algo além do mundo físico?
 
 O que significa existir?
 
-### Epistemologia
+#### Epistemologia
 
 O que podemos conhecer?
 
@@ -2079,7 +2174,7 @@ Como sabemos que algo é verdadeiro?
 
 Podemos confiar nos sentidos?
 
-### Ética
+#### Ética
 
 O que é uma vida boa?
 
@@ -2087,7 +2182,7 @@ Existe certo e errado universal?
 
 As consequências justificam uma ação?
 
-### Política
+#### Política
 
 Por que existe governo?
 
@@ -2097,7 +2192,7 @@ O que é liberdade?
 
 Quando uma desigualdade é injusta?
 
-### Filosofia da mente
+#### Filosofia da mente
 
 O que é consciência?
 
@@ -2105,17 +2200,17 @@ Existe livre-arbítrio?
 
 Somos apenas nosso cérebro?
 
-### Filosofia da ciência
+#### Filosofia da ciência
 
 O que diferencia ciência de outras formas de conhecimento?
 
 A ciência descobre verdades ou apenas cria modelos melhores?
 
-### Filosofia da linguagem
+#### Filosofia da linguagem
 
 As palavras simplesmente descrevem a realidade ou também influenciam nossa forma de percebê-la?
 
-### Filosofia contemporânea
+#### Filosofia contemporânea
 
 Como tecnologia, redes sociais e inteligência artificial transformam:
 
@@ -2128,7 +2223,9 @@ Como tecnologia, redes sociais e inteligência artificial transformam:
 
 ---
 
-# O objetivo final
+<a id="objetivo-final"></a>
+
+## Objetivo final
 
 Depois de estudar toda essa trajetória, você deverá enxergar a história da filosofia não como uma coleção de opiniões isoladas, mas como uma enorme discussão iniciada há mais de 2.500 anos.
 
@@ -2183,3 +2280,36 @@ E talvez essa seja a característica mais importante da filosofia:
 ela não entrega apenas respostas.
 
 Ela nos ensina a perceber que algumas das perguntas que pareciam simples eram muito mais profundas do que imaginávamos.
+
+---
+
+<a id="referencias"></a>
+
+## Referências para aprofundamento
+
+### Verificação conceitual
+
+Os verbetes abaixo fundamentam os ajustes sobre estoicismo, diversidade medieval e dialética hegeliana. Estão em inglês.
+
+- [Stoicism — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/archives/sum2025/entries/stoicism/).
+- [Medieval Philosophy — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/archives/sum2023/entries/medieval-philosophy/).
+- [Hegel’s Dialectics — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/archives/spr2022/entries/hegel-dialectics/).
+
+### Obras para acompanhar o roteiro
+
+Esta lista é uma seleção inicial, não a bibliografia completa do manual. Ao escolher uma edição, confira a tradução, a introdução e as notas.
+
+| Tema | Obra | Foco de leitura |
+| --- | --- | --- |
+| Sócrates | Platão, *Apologia de Sócrates* | Exame da vida e reconhecimento da ignorância |
+| Platão | *República*, livro VII | Alegoria da Caverna e educação |
+| Aristóteles | *Ética a Nicômaco*, livros I e II | Felicidade e virtude |
+| Epicurismo | Epicuro, *Carta a Meneceu* | Prazer, desejos e vida tranquila |
+| Estoicismo | Epicteto, *Manual* | Julgamentos e o que depende de nós |
+| Descartes | *Meditações sobre filosofia primeira*, I e II | Dúvida e certeza |
+| Hume | *Investigação sobre o entendimento humano*, seções IV e V | Causalidade e hábito |
+| Kant | *Fundamentação da metafísica dos costumes* | Dever e princípios morais |
+
+### Ficha de leitura
+
+Registre a obra, a edição e as páginas consultadas. Separe a citação literal da sua paráfrase e da sua avaliação. Para cada tese, identifique o argumento que a sustenta e pelo menos uma objeção possível.
